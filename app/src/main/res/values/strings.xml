@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voanhnguyen-Sales</string>
+
+    <string name="menu_setting">Setting</string>
+    <string name="menu_helps">Helps</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="lmenu_add">Add</string>
+    <string name="lmenu_edit">Edit</string>
+    <string name="lmenu_delete">Delete</string>
+</resources>
